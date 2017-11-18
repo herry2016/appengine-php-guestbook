@@ -1,4 +1,4 @@
 <?php
-$output = shell_exec('nlode');
+$output = shell_exec('nload');
 echo "<pre>$output</pre>";
 ?>
